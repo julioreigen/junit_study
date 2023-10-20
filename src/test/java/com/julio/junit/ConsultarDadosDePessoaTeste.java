@@ -1,12 +1,10 @@
 package com.julio.junit;
 
 import org.junit.jupiter.api.*;
-import com.julio.junit.BancoDeDados;
-import com.julio.junit.Pessoa;
 
 import java.time.LocalDate;
 
-public class ConsultarDadosDePessoaTest {
+public class ConsultarDadosDePessoaTeste {
 
     @BeforeAll
     static void configuraConexao() {

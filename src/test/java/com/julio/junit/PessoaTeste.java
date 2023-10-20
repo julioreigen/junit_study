@@ -2,11 +2,10 @@ package com.julio.junit;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
-import com.julio.junit.Pessoa;
 
 import java.time.LocalDate;
 
-public class PessoaTest {
+public class PessoaTeste {
 
     @Test
     void deveCalcularIdadeCorretamente() {
